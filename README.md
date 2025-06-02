@@ -1,4 +1,4 @@
-👋 Hello, World! I'm [Your Name]!
+👋 Hello, World! I'm JOse Armando Vera!
 Welcome to my digital playground! 🎢 Here, you'll find a collection of my coding adventures, creative projects, and innovative experiments. Let's dive into the code!
 
 🚀 About Me
